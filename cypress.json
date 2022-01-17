@@ -1,0 +1,16 @@
+{
+    "env": {
+        "url": "https://demoqa.com/login"
+    },
+    "fixturesFolder": "cypress/fixtures",
+    "screenshotsFolder": "cypress/screenshots",
+    "supportFile": "cypress/support",
+    "video": true,
+    "videoCompression": 32,
+    "videoUploadOnPasses": true,
+    "videosFolder": "cypress/videos",
+    "viewportHeight": 660,
+    "viewportWidth": 1000,
+    "waitForAnimations": true,
+    "watchForFileChanges": true
+}

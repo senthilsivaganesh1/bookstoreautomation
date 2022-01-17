@@ -1,0 +1,9 @@
+{
+    "username": "Arena",
+    "password": "Admin@123",
+    "bookname": "Speaking JavaScript",
+    "bookstorepageheader": "Book Store",
+    "profilepageheader": "Profile",
+    "alertmessage": "Book added to your collection.",
+    "bookNameIndex": 0
+}
